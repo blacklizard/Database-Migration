@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1369263831 source:c:\users\blacklizard\desktop\migrationlist\main.cpp
+	<iostream>
+	"List.h"
+
+1369284517 
+
+1369265220 source:c:\users\blacklizard\desktop\migrationlist\list.cpp
+	<iostream>
+	"List.h"
+
+1369265781 c:\users\blacklizard\desktop\migrationlist\list.h
+
+1369265220 source:d:\pdb\migrationlist\list.cpp
+	<iostream>
+	"List.h"
+
+1369265781 d:\pdb\migrationlist\list.h
+
+1369284417 source:d:\pdb\migrationlist\csv.cpp
+	<iostream>
+	"List.h"
+	"Csv.h"
+
+1369284523 d:\pdb\migrationlist\csv.h
+
+1369284517 source:d:\pdb\migrationlist\main.cpp
+	<iostream>
+	"List.h"
+	"Csv.h"
+
+1369739568 source:/home/blacklizard/Desktop/MigrationLIst/Csv.cpp
+	<iostream>
+	"List.h"
+	"Csv.h"
+
+1369736258 /home/blacklizard/Desktop/MigrationLIst/List.h
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	"layout.h"
+
+1369722230 /home/blacklizard/Desktop/MigrationLIst/Csv.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"layout.h"
+
+1369736542 source:/home/blacklizard/Desktop/MigrationLIst/List.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"List.h"
+
+1369727859 source:/home/blacklizard/Desktop/MigrationLIst/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	"List.h"
+	"Csv.h"
+
+1369709754 /home/blacklizard/Desktop/MigrationLIst/layout.h
+
